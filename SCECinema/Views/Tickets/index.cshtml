@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SCECinema.Models.Ticket>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tickets</h2>
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+<table class="table">
+    <tr>
+        <th>
+            Movie
+        </th>
+        <th>
+            Show Start Time
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Seat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TicketPrice)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Showing.Movie.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Showing.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Seat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TicketPrice)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { TicketID = item.TicketID }) |
+                @Html.ActionLink("Details", "Details", new { TicketID = item.TicketID }) |
+                @Html.ActionLink("Delete", "Delete", new { TicketID = item.TicketID })
+            </td>
+        </tr>
+    }
+
+</table>

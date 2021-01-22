@@ -1,0 +1,74 @@
+﻿@model SCECinema.Models.AppUser
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Profile</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.FirstName)
+    @Html.HiddenFor(model => model.LastName)
+    @Html.HiddenFor(model => model.Birthday)
+    @Html.HiddenFor(model => model.Email)
+    @Html.HiddenFor(model => model.EmailConfirmed)
+    @Html.HiddenFor(model => model.PasswordHash)
+    @Html.HiddenFor(model => model.PhoneNumberConfirmed)
+    @Html.HiddenFor(model => model.TwoFactorEnabled)
+    @Html.HiddenFor(model => model.LockoutEndDateUtc)
+    @Html.HiddenFor(model => model.LockoutEnabled)
+    @Html.HiddenFor(model => model.AccessFailedCount)
+    @Html.HiddenFor(model => model.UserName)
+
+    <div class="form-group">
+        Phone Number
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        Email
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        First Name
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        Last Name
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        BirthDay
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Birthday, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Birthday, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-success" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Back to Profile", "UserProfile",null,new { @class = "btn btn-primary" })
+</div>

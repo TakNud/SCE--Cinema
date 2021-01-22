@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - SCE-Cinema</title>
+    <link href="~/Scripts/css/theme.default.min.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $("table").tablesorter({})
+
+
+
+        });</script>
+
+     <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+        <script src="~/Scripts/bootstrap.min.js"></script>
+      @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-content" aria-controls="nav-content" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="nav-content">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Movie", "Index", "Movie", null, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Showings", "Index", "Showings", null, new { @class = "nav-link" })
+                    </li>
+
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Tickets", "Index", "Tickets", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Orders", "Index", "Orders", null, new { @class = "nav-link" })
+                        </li>
+                    }
+
+
+
+                </ul>
+            </div>
+            @Html.Partial("_LoginPartial")
+        </nav>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - SCECinema- our vision</p>
+        </footer>
+    </div>
+
+    @* @Scripts.Render("~/bundles/jquery")*@
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

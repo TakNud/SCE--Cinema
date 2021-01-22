@@ -1,0 +1,62 @@
+﻿@model SCECinema.Models.Showing
+@using SCECinema.Models
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Showing</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Movie
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Movie.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndTime)
+        </dd>
+
+      
+        <dt>
+            @Html.DisplayNameFor(model => model.TheatreNum)
+        </dt>
+
+        <dd>
+            @if (Model.TheatreNum == Theatre.TheatreOne)
+            {<p>1</p>}
+            @if (Model.TheatreNum == Theatre.TheatreTwo)
+            {<p>2</p>}
+            @if (Model.TheatreNum == Theatre.TheatreThree)
+            {<p>3</p>}
+            @if (Model.TheatreNum == Theatre.TheatreFour)
+            {<p>4</p>}
+            @if (Model.TheatreNum == Theatre.TheatreFive)
+            {<p>5</p>}
+            
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (User.IsInRole("Admin"))
+    {@Html.ActionLink("Edit", "Edit", null, new { id = Model.ShowingID }, new { @class = "btn btn-primary" })}
+
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,57 @@
+﻿@model SCECinema.Models.AppUser
+
+@{
+    ViewBag.Title = "UserProfile";
+}
+
+<h2>Profile</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Birthday)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Birthday.Month)/@Html.DisplayFor(model => model.Birthday.Day)/@Html.DisplayFor(model => model.Birthday.Year)
+            @*@Html.DisplayFor(model => model.Birthday.Year)*@
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            Phone Number
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneNumber)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit Information", "Edit", null, new { @class = "btn btn-primary" }) 
+    @Html.ActionLink("Change Password","ChangePassword","Account",null,new { @class = "btn btn-info"})
+</p>

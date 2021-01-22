@@ -1,0 +1,35 @@
+﻿@model SCECinema.Models.Order
+@using SCECinema.Models
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Confirm Order Creation</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    Are you sure you want to create a new order?
+                </dt>
+            </dl>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create Order" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Showings", "Index", "Showings")
+</div>

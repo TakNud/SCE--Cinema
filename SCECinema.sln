@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCECinema", "SCECinema\SCECinema.csproj", "{6229176E-0236-402E-B021-2C18C3408C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6229176E-0236-402E-B021-2C18C3408C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6229176E-0236-402E-B021-2C18C3408C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6229176E-0236-402E-B021-2C18C3408C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6229176E-0236-402E-B021-2C18C3408C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74817B41-268E-4823-AD78-264BAFE7308E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,679 @@
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\SCECinema.dll.config
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\SCECinema.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\SCECinema.pdb
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csc.exe
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csc.exe.config
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csc.rsp
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csi.exe
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csi.exe.config
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\csi.rsp
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.AppContext.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Console.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Claims.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\vbc.exe
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\vbc.exe.config
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\vbc.rsp
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Antlr3.Runtime.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\EntityFramework.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\EntityFramework.SqlServer.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Newtonsoft.Json.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Owin.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Helpers.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Mvc.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Optimization.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Razor.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\WebGrease.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Helpers.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Mvc.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Optimization.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.Razor.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Newtonsoft.Json.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Antlr3.Runtime.pdb
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\EntityFramework.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\EntityFramework.SqlServer.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.csprojAssemblyReference.cache
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CoreCompileInputs.cache
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CopyComplete
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.dll
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.pdb
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init4.resources
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.GenerateResource.cache
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init.resources
+C:\Users\Almog\source\repos\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init2.resources
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.csprojAssemblyReference.cache
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CoreCompileInputs.cache
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.pdb
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\SCECinema.dll.config
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\SCECinema.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\SCECinema.pdb
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csc.exe
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csc.exe.config
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csc.rsp
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csi.exe
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csi.exe.config
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\csi.rsp
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.AppContext.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Console.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.IO.Compression.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Claims.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.ValueTuple.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\vbc.exe
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\vbc.exe.config
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\vbc.rsp
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Antlr3.Runtime.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\EntityFramework.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\EntityFramework.SqlServer.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Newtonsoft.Json.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Owin.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Helpers.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Mvc.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Optimization.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Razor.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\WebGrease.dll
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\EntityFramework.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\EntityFramework.SqlServer.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Helpers.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Mvc.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Optimization.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.Razor.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Newtonsoft.Json.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Antlr3.Runtime.pdb
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CopyComplete
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init.resources
+D:\Downloads Freom Web\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.GenerateResource.cache
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\SCECinema.dll.config
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\SCECinema.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\SCECinema.pdb
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csc.exe
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csc.exe.config
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csc.rsp
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csi.exe
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csi.exe.config
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\csi.rsp
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.AppContext.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Collections.Immutable.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Console.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.IO.Compression.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.AccessControl.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Claims.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.ValueTuple.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\vbc.exe
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\vbc.exe.config
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\vbc.rsp
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe.config
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Antlr3.Runtime.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\EntityFramework.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\EntityFramework.SqlServer.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Web.Infrastructure.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Newtonsoft.Json.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Owin.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Helpers.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Mvc.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Optimization.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Razor.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\WebGrease.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\EntityFramework.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\EntityFramework.SqlServer.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Helpers.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Mvc.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Optimization.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.Razor.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Newtonsoft.Json.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Antlr3.Runtime.pdb
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.csprojAssemblyReference.cache
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.GenerateResource.cache
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CoreCompileInputs.cache
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CopyComplete
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.dll
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.pdb
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init5.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init3.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init1.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init2.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init12.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init121.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init11.resources
+D:\Studies\Thrid-Year\מבוא לתקשורת\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init111.resources
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\SCECinema.dll.config
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\SCECinema.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\SCECinema.pdb
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csc.exe
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csc.exe.config
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csc.rsp
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csi.exe
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csi.exe.config
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\csi.rsp
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.AppContext.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Console.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.IO.Compression.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Claims.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.ValueTuple.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\vbc.exe
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\vbc.exe.config
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\vbc.rsp
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Antlr3.Runtime.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\EntityFramework.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\EntityFramework.SqlServer.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Newtonsoft.Json.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Owin.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Helpers.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Mvc.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Optimization.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Razor.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\WebGrease.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\EntityFramework.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\EntityFramework.SqlServer.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Helpers.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Mvc.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Optimization.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.Razor.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Newtonsoft.Json.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Antlr3.Runtime.pdb
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.csprojAssemblyReference.cache
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CoreCompileInputs.cache
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CopyComplete
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.dll
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.pdb
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init1.resources
+D:\Downloads Freom Web\SCECinema (1)\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.GenerateResource.cache
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\SCECinema.dll.config
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\SCECinema.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\SCECinema.pdb
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csc.exe
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csc.exe.config
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csc.rsp
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csi.exe
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csi.exe.config
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\csi.rsp
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.AppContext.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Console.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Claims.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\vbc.exe
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\vbc.exe.config
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\vbc.rsp
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Antlr3.Runtime.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\EntityFramework.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\EntityFramework.SqlServer.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Newtonsoft.Json.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Owin.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Helpers.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Mvc.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Optimization.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Razor.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\WebGrease.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\EntityFramework.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\EntityFramework.SqlServer.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Helpers.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Mvc.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Optimization.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Razor.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Newtonsoft.Json.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Antlr3.Runtime.pdb
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.csprojAssemblyReference.cache
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.Migrations.init1.resources
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.GenerateResource.cache
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CoreCompileInputs.cache
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.csproj.CopyComplete
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\obj\Debug\SCECinema.pdb
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\netstandard.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.AppContext.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.Concurrent.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.NonGeneric.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.Specialized.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ComponentModel.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ComponentModel.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Console.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Data.Common.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.Contracts.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.Debug.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.Process.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.Tools.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Diagnostics.Tracing.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Drawing.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Dynamic.Runtime.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Globalization.Calendars.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Globalization.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Globalization.Extensions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.Compression.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.FileSystem.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.IsolatedStorage.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.Pipes.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.Expressions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.Parallel.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.Queryable.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Http.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.NameResolution.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.NetworkInformation.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Ping.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Requests.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Security.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.Sockets.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.WebSockets.Client.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Net.WebSockets.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ObjectModel.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Reflection.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Reflection.Extensions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Reflection.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Resources.Reader.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Resources.ResourceManager.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Resources.Writer.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Extensions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Handles.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.InteropServices.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Numerics.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Claims.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.Principal.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Security.SecureString.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Text.Encoding.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Text.RegularExpressions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Overlapped.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Tasks.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Thread.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.ThreadPool.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Timer.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.ValueTuple.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.ReaderWriter.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.XDocument.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.XmlDocument.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.XmlSerializer.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.XPath.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.Core.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.Rest.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.WebSocket.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Jint.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Cors.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Bot.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Oryzer.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Platform.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Utilities.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Workspace.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.Immutable.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Interactive.Async.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.Async.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Web.Cors.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Telegram.Bot.dll
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.Core.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.Rest.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Discord.Net.WebSocket.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Cors.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Syn.Bot.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Collections.Immutable.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Interactive.Async.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Linq.Async.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Almog\Desktop\SCECinema\SCECinema\bin\Telegram.Bot.xml

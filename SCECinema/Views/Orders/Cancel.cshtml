@@ -1,0 +1,66 @@
+﻿@model SCECinema.Models.Order
+@using SCECinema.Models
+
+@{
+    ViewBag.Title = "Cancel";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to cancel this?</h3>
+
+    <h4>Order</h4>
+
+<table class="table">
+    <tr>
+        <th>
+            Movie
+        </th>
+        <th>
+            Show Start Time
+        </th>
+        <th>
+            Ticket Price
+        </th>
+        <th>
+            Seat
+        </th>
+        @if (Model.Status == OrderStatus.Pending)
+        {
+            <th></th>}
+    </tr>
+
+    @foreach (var tic in Model.Tickets)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => tic.Showing.Movie.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => tic.Showing.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => tic.TicketPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => tic.Seat)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Cancel" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

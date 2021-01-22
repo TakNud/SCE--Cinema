@@ -1,0 +1,40 @@
+﻿@model IEnumerable<SCECinema.Models.CreditCard>
+@using SCECinema.Models
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Credit Cards</h2>
+
+<p>
+    @Html.ActionLink("Add New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Card Type
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CardNumber)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CardType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CardNumberShort)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CreditCardID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CreditCardID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CreditCardID })
+        </td>
+    </tr>
+}
+
+</table>
