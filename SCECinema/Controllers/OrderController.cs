@@ -27,8 +27,8 @@ namespace SCECinema.Controllers
                 string UserID = User.Identity.GetUserId();
                 List<Order> Orders = db.Orders.Where(o => o.AppUser.Id == UserID).ToList();
                 return View(Orders);
-                
-            }
+            }   
+            
             else return Content("Only registered useres can watch their orders!");
         }
 

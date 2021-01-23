@@ -9,6 +9,7 @@ using SCECinema.DAL;
 using SCECinema.Helpers;
 
 
+
 namespace SCECinema
 {
     public class MvcApplication : System.Web.HttpApplication
