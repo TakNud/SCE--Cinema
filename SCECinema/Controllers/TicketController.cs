@@ -93,9 +93,10 @@ namespace SCECinema.Controllers
             tic.Showing = show;
             tic.TicketPrice = show.Price;
             tic.OldPrice = show.Price + 20;
+            user = db.Users.Find(User.Identity.GetUserId()); 
+            /*
             if (User.IsInRole("Register"))
             {
-                user = db.Users.Find(User.Identity.GetUserId()); 
             }
             else
             {
@@ -110,6 +111,7 @@ namespace SCECinema.Controllers
                 };
               
             }
+            */
             //clear existing errors - we know there is no seat
             ModelState.Clear();
 

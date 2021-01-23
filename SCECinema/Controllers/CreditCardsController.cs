@@ -10,7 +10,7 @@ using SCECinema.DAL;
 using SCECinema.Models;
 using Microsoft.AspNet.Identity;
 
-namespace LonghornCinemaFinalProject.Controllers
+namespace SCECinema.Controllers
 {
     public class CreditCardsController : Controller
     {

@@ -167,12 +167,10 @@ namespace SCECinema.Controllers
                
 
                 var result = await UserManager.CreateAsync(user, model.Password);
-                UserManager.AddToRole(user.Id, "Register");
                 if (result.Succeeded)
                 {
                     await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
-                   
-
+                    UserManager.AddToRole(user.Id, "Register");
                     return RedirectToAction("Index", "Home");
                 }
                 AddErrors(result);
